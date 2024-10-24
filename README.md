@@ -5,8 +5,8 @@ A device that is mounted near each wheel of the car that can record tire tempera
 Uses Molex [Nano-Fit](https://www.molex.com/en-us/part-list/105313) w/ right angle headers.
 
 ### Schematic
-![ESP32 Hat Schematic]()
+![ESP32 Hat Schematic](Images/SSS_HAT_Schematic.pdf)
 ### PCB Drawing
-![EPS32 Hat PCB Drawing]()
+![EPS32 Hat PCB Drawing](Images/SSS_HAT_PCB.pdf)
 ### PCB 3D Model
-![ESP32 HAT PCB 3D Model]()
+![ESP32 HAT PCB 3D Model](Images/SSS_HAT_PCB.png)
