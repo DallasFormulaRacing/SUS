@@ -6,8 +6,10 @@
 	(paper "A4")
 	(title_block
 		(title "SSS_HAT")
+		(date "2024-10-24")
 		(rev "1.0")
 		(company "Dallas Formula Racing")
+		(comment 1 "By: Will Everson")
 	)
 	(lib_symbols
 		(symbol "+5V_1"
