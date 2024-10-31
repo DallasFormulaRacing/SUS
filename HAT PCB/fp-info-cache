@@ -1,25 +1,4 @@
-24194499612526110
-ADS8320EB_250
-DGK0008A_L
-
-ADS8320EB/250 
-0
-8
-8
-ADS8320EB_250
-DGK0008A_M
-
-ADS8320EB/250 
-0
-8
-8
-ADS8320EB_250
-DGK0008A_N
-
-ADS8320EB/250 
-0
-8
-8
+24189309209739298
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -54802,6 +54781,13 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+DFR
+DFR
+
+
+0
+0
+0
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -57980,13 +57966,6 @@ heatsink
 0
 0
 0
-ICM-42688-P
-PQFN50P300X250X97-14N
-
-
-0
-14
-14
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
