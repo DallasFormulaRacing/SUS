@@ -1,5 +1,5 @@
 # Suspension-Sensors (SUS)
-A device that is mounted near each wheel of a vehicle that can record tire temperature, acceleration and rotational speed of the vehicle, wheel speed and suspension travel (linear potentiometers).
+A device that is mounted near each wheel of a vehicle that can record tire temperature, acceleration, rotational speed, wheel speed and suspension travel (linear potentiometers).
 
 ### Schematic
 ![ESP32 Hat Schematic](Images/SUS-HAT_Schematic.jpg)
