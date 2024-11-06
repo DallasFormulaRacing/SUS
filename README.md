@@ -1,4 +1,4 @@
-# Suspension-Sensor-System (SSS)
+# Suspension-Sensors (SUS)
 A device that is mounted near each wheel of a vehicle that can record tire temperature, acceleration and rotational speed of the vehicle, wheel speed and suspension travel (linear potentiometers).
 
 ### Schematic
