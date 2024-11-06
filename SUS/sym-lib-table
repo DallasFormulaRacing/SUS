@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "fc")(type "KiCad")(uri "${KIPRJMOD}/Faraday Cage/fc.kicad_sym")(options "")(descr ""))
+)
