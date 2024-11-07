@@ -1,8 +1,8 @@
 # Suspension-Sensors (SUS)
-A device that is mounted near each wheel of a vehicle that can record tire temperature, acceleration, rotational speed, wheel speed and suspension travel (linear potentiometers).
+A device that is mounted near each wheel of a vehicle that can record air pressure (DLHR), acceleration, rotational speed, wheel speed and suspension travel (linear potentiometers).
 
 ### Schematic
-![ESP32 Hat Schematic](Images/SUS-HAT_Schematic.jpg)
+![ESP32 Hat Schematic](Images/SUS_HAT_Schematic.PNG)
 ### PCB Drawing
 ![EPS32 Hat PCB Drawing](Images/SUS_HAT_PCB_Drawing.png)
 ### PCB 3D Model
@@ -27,3 +27,10 @@ A device that is mounted near each wheel of a vehicle that can record tire tempe
 |10μF Capacitor|10μF 0402 Hand Solder||1||C1|
 |1kΩ Resistor|1kΩ 0201||20||R3-R22|
 |10kΩ Resistor|10kΩ 0402||2||R1-R2|
+
+
+#### Female connectors (AWG 24 - 28)
+|Part|Description|Photo|# of parts|Cost per part|
+|:--|:--|:-:|--:|--:|
+|[DF3-3S-2C(10)](https://www.digikey.com/en/products/detail/hirose-electric-co-ltd/DF3-3S-2C-10/3977787?s=N4IgjCBcoMwOxVAYygMwIYBsDOBTANCAPZQDaIALAExgAMAHLSALqEAOALlCAMocBOASwB2AcxABfQvXqIQKSBhwFiZcADYAnFU0BWFuy6ReAkeKkh6muQqV5CJSOXoUrBkJ258hYyYV1gVDZoWPaqTiAwFOq6Me6ext5mfiA0cEHQ8iHKDmoQrB5GIAAiRACuAEaYuJIWGeTFAGIwALQwLBJAA)|3POS 2.00MM connector|<img src="Images/DF3-3S-2C(10).jpg" alt="DF3-3S-2C(10)" width="100"/>|2|$0.071|
+|[DF3-4S-2C(10)](https://www.digikey.com/en/products/detail/hirose-electric-co-ltd/DF3-4S-2C-10/4282726)|4POS 2.00MM connector|<img src="Images/DF3-4S-2C(10).jpg" alt="DF3-4S-2C(10)" width="100"/>|3|$0.071|
