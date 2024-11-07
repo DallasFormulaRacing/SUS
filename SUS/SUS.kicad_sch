@@ -6943,6 +6943,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C76941"
+			(at 203.2 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
+			(at 203.2 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "558327f3-4136-4693-8ab8-9509af5c5582")
 		)
@@ -6965,7 +6983,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "0c76e41a-75e6-43c7-8a76-6404e269888b")
 		(property "Reference" "J1"
 			(at 238.252 23.622 0)
@@ -7004,6 +7022,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x22, script generated"
+			(at 240.03 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 240.03 52.07 0)
 			(effects
 				(font
@@ -7141,7 +7168,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLCpart#" "C2906988"
+		(property "LCSC PN" "C270365"
+			(at 229.87 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 229.87 151.13 0)
 			(effects
 				(font
@@ -7219,7 +7255,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLCpart#" "C2906988"
+		(property "LCSC PN" "C270365"
+			(at 138.43 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 138.43 151.13 0)
 			(effects
 				(font
@@ -7297,6 +7342,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C76941"
+			(at 264.16 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
+			(at 264.16 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b7547783-9c0b-4029-a60e-7e517f2523c2")
 		)
@@ -7319,7 +7382,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "13ace075-dc78-44bc-82de-b6fbe4fcee4f")
 		(property "Reference" "J6"
@@ -7367,6 +7430,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN " ""
+			(at 93.98 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "cfb47420-00d8-428a-ae55-21bb79a6952a")
 		)
@@ -7396,7 +7468,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "14024c03-a742-4824-a96e-41bad847881c")
 		(property "Reference" "J7"
 			(at 200.66 40.9955 0)
@@ -7435,6 +7507,15 @@
 			)
 		)
 		(property "Description" "Generic connectable mounting pin connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 203.2 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 203.2 41.91 0)
 			(effects
 				(font
@@ -7518,7 +7599,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLCpart#" "C2906988"
+		(property "LCSC PN" "C270365"
+			(at 168.91 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 168.91 151.13 0)
 			(effects
 				(font
@@ -7616,7 +7706,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "1ad4ef8c-df1c-48af-b6a7-817c44644f00")
 		(property "Reference" "R2"
 			(at 125.73 95.758 90)
@@ -7664,6 +7754,15 @@
 			)
 		)
 		(property "JLCpart#" "C2906988"
+			(at 127 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 127 97.79 0)
 			(effects
 				(font
@@ -7940,7 +8039,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLCpart#" "C2906988"
+		(property "LCSC PN" "C270365"
+			(at 123.19 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 123.19 151.13 0)
 			(effects
 				(font
@@ -7971,7 +8079,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "2c550b54-3265-4768-bda5-8547584b9eb6")
 		(property "Reference" "J3"
@@ -8011,6 +8119,15 @@
 			)
 		)
 		(property "Description" "Generic connectable mounting pin connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 95.25 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 95.25 22.86 0)
 			(effects
 				(font
@@ -8089,6 +8206,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 172.72 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C76941"
+			(at 172.72 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 172.72 154.94 0)
 			(effects
 				(font
@@ -8225,6 +8360,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 256.54 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C76941"
+			(at 256.54 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 256.54 154.94 0)
 			(effects
 				(font
@@ -8435,6 +8588,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN " ""
+			(at 151.13 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "SSS_HAT"
 				(path "/4bc4e24b-850f-49e9-945b-9f19aae95ccf"
@@ -8490,6 +8652,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 187.96 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C76941"
+			(at 187.96 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 187.96 154.94 0)
 			(effects
 				(font
@@ -8559,6 +8739,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 157.48 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C76941"
+			(at 157.48 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 157.48 154.94 0)
 			(effects
 				(font
@@ -8703,6 +8901,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C76941"
+			(at 119.38 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
+			(at 119.38 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "91c23348-e579-4eb4-8b98-0d642770ddad")
 		)
@@ -8725,7 +8941,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "3bdf0804-fd9a-43b8-89be-2c49a64d794f")
 		(property "Reference" "U4"
 			(at 22.606 133.858 0)
@@ -8824,6 +9040,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN " ""
+			(at 17.78 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "eae9f9da-bd90-43ba-bbce-255b8348130d")
 		)
@@ -8896,7 +9121,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLCpart#" "C2906988"
+		(property "LCSC PN" "C270365"
+			(at 260.35 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 260.35 151.13 0)
 			(effects
 				(font
@@ -8974,7 +9208,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLCpart#" "C2906988"
+		(property "LCSC PN" "C270365"
+			(at 199.39 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 199.39 151.13 0)
 			(effects
 				(font
@@ -9052,7 +9295,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLCpart#" "C2906988"
+		(property "LCSC PN" "C270365"
+			(at 130.81 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 130.81 151.13 0)
 			(effects
 				(font
@@ -9130,7 +9382,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLCpart#" "C2906988"
+		(property "LCSC PN" "C270365"
+			(at 222.25 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 222.25 151.13 0)
 			(effects
 				(font
@@ -9340,6 +9601,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C76941"
+			(at 226.06 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
+			(at 226.06 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1f91d207-77e2-41cf-8383-2f5a95a8f48e")
 		)
@@ -9429,7 +9708,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "51f8cc9c-0637-40f2-9f2b-d4e85ed42e14")
 		(property "Reference" "U5"
 			(at 53.086 133.858 0)
@@ -9528,6 +9807,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN " ""
+			(at 48.26 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "90bd6a70-1c5b-4461-bb3e-016a97765cd7")
 		)
@@ -9600,7 +9888,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLCpart#" "C2906988"
+		(property "LCSC PN" "C270365"
+			(at 207.01 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 207.01 151.13 0)
 			(effects
 				(font
@@ -9876,6 +10173,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C76941"
+			(at 142.24 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
+			(at 142.24 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "01965444-4b6e-4b0d-b579-4cefb1445c25")
 		)
@@ -9898,7 +10213,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "5d2efbde-9ba1-4262-9520-1e0b509a7dd9")
 		(property "Reference" "J5"
@@ -9938,6 +10253,15 @@
 			)
 		)
 		(property "Description" "Generic connectable mounting pin connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 137.16 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 137.16 106.68 0)
 			(effects
 				(font
@@ -10091,7 +10415,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLCpart#" "C2906988"
+		(property "LCSC PN" "C270365"
+			(at 252.73 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 252.73 151.13 0)
 			(effects
 				(font
@@ -10161,6 +10494,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 248.92 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C76941"
+			(at 248.92 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 248.92 154.94 0)
 			(effects
 				(font
@@ -10424,6 +10775,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C1850418"
+			(at 143.51 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
+			(at 143.51 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "14ad48c2-296b-472c-b2da-435cb0f665af")
 		)
@@ -10482,7 +10851,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "6c63cc19-198d-408b-b073-8accdc740e1b")
 		(property "Reference" "C5"
 			(at 185.928 42.164 0)
@@ -10529,6 +10898,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN " ""
+			(at 182.88 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a0489b13-7740-43b9-a938-09e2d3608388")
 		)
@@ -10551,7 +10929,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "6e971a33-f6d8-4314-bf0a-65bd631be73a")
 		(property "Reference" "C3"
 			(at 164.846 28.448 0)
@@ -10590,6 +10968,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 172.72 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 172.72 33.02 0)
 			(effects
 				(font
@@ -10667,7 +11054,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLCpart#" "C2906988"
+		(property "LCSC PN" "C270365"
+			(at 146.05 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 146.05 151.13 0)
 			(effects
 				(font
@@ -10813,6 +11209,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN " ""
+			(at 151.13 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "SSS_HAT"
 				(path "/4bc4e24b-850f-49e9-945b-9f19aae95ccf"
@@ -10869,6 +11274,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 151.13 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 151.13 93.98 0)
 			(effects
 				(font
@@ -10940,7 +11354,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLCpart#" "C2906988"
+		(property "LCSC PN" "C270365"
+			(at 184.15 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 184.15 151.13 0)
 			(effects
 				(font
@@ -11018,7 +11441,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLCpart#" "C2906988"
+		(property "LCSC PN" "C270365"
+			(at 153.67 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 153.67 151.13 0)
 			(effects
 				(font
@@ -11229,6 +11661,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C76941"
+			(at 233.68 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
+			(at 233.68 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "72169ea1-1eb6-4a59-8924-0a975e550b47")
 		)
@@ -11385,7 +11835,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "8bd383da-753a-4e76-88fc-bb21effcd8d0")
 		(property "Reference" "C1"
@@ -11425,6 +11875,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 31.75 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 31.75 106.68 0)
 			(effects
 				(font
@@ -11520,7 +11979,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "8d3de559-36fa-4551-a2b6-e8a926e7ff37")
 		(property "Reference" "C4"
 			(at 180.848 27.432 0)
@@ -11567,6 +12026,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN " ""
+			(at 179.07 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "970104c0-b1b5-4fb3-a264-1ae389eab1e2")
 		)
@@ -11589,7 +12057,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "8d74fe9b-65ee-4ce1-845c-7d508347a603")
 		(property "Reference" "J2"
 			(at 237.49 83.566 0)
@@ -11628,6 +12096,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x22, script generated"
+			(at 240.03 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 240.03 114.3 0)
 			(effects
 				(font
@@ -11765,7 +12242,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLCpart#" "C2906988"
+		(property "LCSC PN" "C270365"
+			(at 176.53 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 176.53 151.13 0)
 			(effects
 				(font
@@ -11910,6 +12396,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C76941"
+			(at 127 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
+			(at 127 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "eabb810e-bfc1-4723-b3c5-43f3da6dd338")
 		)
@@ -11999,7 +12503,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "9c264e76-89b1-4c8e-a72f-115b3abca0d3")
 		(property "Reference" "U1"
 			(at 38.608 23.876 0)
@@ -12048,6 +12552,15 @@
 			)
 		)
 		(property "JLCpart#" "C38695"
+			(at 48.26 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 48.26 36.83 0)
 			(effects
 				(font
@@ -12136,6 +12649,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 151.13 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 151.13 104.14 0)
 			(effects
 				(font
@@ -12274,7 +12796,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLCpart#" "C2906988"
+		(property "LCSC PN" "C270365"
+			(at 245.11 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 245.11 151.13 0)
 			(effects
 				(font
@@ -12305,7 +12836,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "aafb5746-a24d-4dcc-afe3-31f957b77602")
 		(property "Reference" "U6"
 			(at 84.836 133.858 0)
@@ -12404,6 +12935,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN " ""
+			(at 80.01 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "001bbfbf-338f-41ca-9027-f69a36d0a47a")
 		)
@@ -12429,7 +12969,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "ace02d75-5989-4e13-880f-ed65bbc21cda")
 		(property "Reference" "R1"
 			(at 125.73 90.424 90)
@@ -12477,6 +13017,15 @@
 			)
 		)
 		(property "JLCpart#" "C2906988"
+			(at 127 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 127 92.71 0)
 			(effects
 				(font
@@ -12554,7 +13103,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLCpart#" "C2906988"
+		(property "LCSC PN" "C270365"
+			(at 161.29 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 161.29 151.13 0)
 			(effects
 				(font
@@ -12632,6 +13190,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C76941"
+			(at 218.44 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
+			(at 218.44 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "24ffe576-a5ce-4d12-b52e-ef65b952d126")
 		)
@@ -12701,7 +13277,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLCpart#" "C2906988"
+		(property "LCSC PN" "C270365"
+			(at 214.63 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 214.63 151.13 0)
 			(effects
 				(font
@@ -12779,6 +13364,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C76941"
+			(at 195.58 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
+			(at 195.58 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c4d20bc2-b941-44d9-ab33-a285afc24647")
 		)
@@ -12848,7 +13451,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLCpart#" "C2906988"
+		(property "LCSC PN" "C270365"
+			(at 115.57 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 115.57 151.13 0)
 			(effects
 				(font
@@ -12985,6 +13597,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 149.86 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C76941"
+			(at 149.86 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 149.86 154.94 0)
 			(effects
 				(font
@@ -13329,6 +13959,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C76941"
+			(at 165.1 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
+			(at 165.1 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7e36cdbf-ce43-47ea-9570-b802b7d4b687")
 		)
@@ -13390,6 +14038,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 241.3 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C76941"
+			(at 241.3 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 241.3 154.94 0)
 			(effects
 				(font
@@ -13467,6 +14133,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C76941"
+			(at 180.34 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
+			(at 180.34 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6d0b5a16-be4d-47aa-91a6-8419a04847df")
 		)
@@ -13489,7 +14173,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "d86d315c-5079-475c-9b47-e8a02ae64442")
 		(property "Reference" "U2"
@@ -13613,6 +14297,15 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
+			(at 55.88 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -13770,7 +14463,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLCpart#" "C2906988"
+		(property "LCSC PN" "C270365"
+			(at 191.77 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 191.77 151.13 0)
 			(effects
 				(font
@@ -13801,7 +14503,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "dc6a29fb-50a5-4e4d-a9e8-2020e012eeb6")
 		(property "Reference" "J4"
@@ -13841,6 +14543,15 @@
 			)
 		)
 		(property "Description" "Generic connectable mounting pin connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 95.25 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 95.25 43.18 0)
 			(effects
 				(font
@@ -14012,7 +14723,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "dfeff2a3-b73f-4dd1-aaec-2db86357fee5")
 		(property "Reference" "C2"
 			(at 79.756 85.852 90)
@@ -14051,6 +14762,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 81.28 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 81.28 83.82 0)
 			(effects
 				(font
@@ -14128,6 +14848,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C76941"
+			(at 134.62 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
+			(at 134.62 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "810169d2-7088-4646-b853-72b96c8bbd28")
 		)
@@ -14197,7 +14935,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLCpart#" "C2906988"
+		(property "LCSC PN" "C270365"
+			(at 237.49 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 237.49 151.13 0)
 			(effects
 				(font
@@ -14334,6 +15081,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 210.82 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C76941"
+			(at 210.82 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN " ""
 			(at 210.82 154.94 0)
 			(effects
 				(font
