@@ -1,25 +1,4 @@
-24196230489660848
-ADS8320EB_250
-DGK0008A_L
-
-ADS8320EB/250 
-0
-8
-8
-ADS8320EB_250
-DGK0008A_M
-
-ADS8320EB/250 
-0
-8
-8
-ADS8320EB_250
-DGK0008A_N
-
-ADS8320EB/250 
-0
-8
-8
+24187578797705695
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57980,13 +57959,6 @@ heatsink
 0
 0
 0
-ICM-42688-P
-PQFN50P300X250X97-14N
-
-
-0
-14
-14
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -89907,13 +89879,6 @@ rotary encoder illuminated switch vertical
 0
 9
 8
-S1001-46R
-S100146R
-S1001-46R-2
-Undefined or Miscellaneous
-0
-3
-3
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf

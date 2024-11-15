@@ -6685,7 +6685,7 @@
 			)
 		)
 	)
-	(global_label "IMU_SCL"
+	(global_label "IMU_SCK"
 		(shape input)
 		(at 118.11 52.07 180)
 		(fields_autoplaced yes)
@@ -6697,7 +6697,7 @@
 		)
 		(uuid "bd49aebc-1d02-48cf-abc5-631271fef42c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 107.2629 52.07 0)
+			(at 107.021 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11091,7 +11091,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ICM-42688-P:PQFN50P300X250X97-14N"
+		(property "Footprint" "IMU:ICM-42688-P"
 			(at 143.51 49.53 0)
 			(effects
 				(font
