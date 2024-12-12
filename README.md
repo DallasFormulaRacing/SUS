@@ -1,5 +1,5 @@
 # Suspension-Sensors (SUS)
-A device that is mounted near each wheel of a vehicle that can record air pressure (DLHR), acceleration, rotational speed, wheel speed and suspension travel (linear potentiometers).
+A device that is mounted near each wheel of a vehicle that can record air pressure (DLHR), acceleration, rotational speed, wheel speed and suspension travel (linear potentiometers). An ESP32 is connected to the female header (J1 & J2). This microcontroller records all inputs and send out a CAN message with all the data.
 
 ### Schematic
 ![ESP32 Hat Schematic](Images/SUS_HAT_Schematic.PNG)
