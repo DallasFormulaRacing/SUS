@@ -1,4 +1,10 @@
 (sym_lib_table
   (version 7)
-  (lib (name "fc")(type "KiCad")(uri "${KIPRJMOD}/Faraday Cage/fc.kicad_sym")(options "")(descr ""))
+  (lib (name "FaradayCage")(type "KiCad")(uri "${KIPRJMOD}/Parts/Faraday Cage/fc.kicad_sym")(options "")(descr ""))
+  (lib (name "CANTran")(type "KiCad")(uri "${KIPRJMOD}/Parts/CAN_Transciever/SN65HVD232DR.kicad_sym")(options "")(descr ""))
+  (lib (name "ADC")(type "KiCad")(uri "${KIPRJMOD}/Parts/ADC/ADS1015IDGSR.kicad_sym")(options "")(descr ""))
+  (lib (name "IMU")(type "KiCad")(uri "${KIPRJMOD}/Parts/IMU/ICM-42688-P.kicad_sym")(options "")(descr ""))
+  (lib (name "S1001-46R")(type "KiCad")(uri "${KIPRJMOD}/Parts/S1001-46R/S1001-46R.kicad_sym")(options "")(descr ""))
+  (lib (name "D25")(type "KiCad")(uri "${KIPRJMOD}/Parts/Connectors/CONN_D25P_AMP/CONN_D25P_AMP.kicad_sym")(options "")(descr ""))
+  (lib (name "HT7333")(type "KiCad")(uri "${KIPRJMOD}/Parts/VoltageRegulator/HT7333.kicad_sym")(options "")(descr ""))
 )

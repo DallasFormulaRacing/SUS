@@ -1,5 +1,9 @@
 (fp_lib_table
   (version 7)
-  (lib (name "DFR")(type "KiCad")(uri "${KIPRJMOD}/DFR.pretty")(options "")(descr ""))
-  (lib (name "IMU")(type "KiCad")(uri "${KIPRJMOD}/IMU/IMU.pretty")(options "")(descr ""))
+  (lib (name "IMU")(type "KiCad")(uri "${KIPRJMOD}/Parts/IMU")(options "")(descr ""))
+  (lib (name "Faraday Cage")(type "KiCad")(uri "${KIPRJMOD}/Parts/Faraday Cage")(options "")(descr ""))
+  (lib (name "CAN")(type "KiCad")(uri "${KIPRJMOD}/Parts/CAN_Transciever")(options "")(descr ""))
+  (lib (name "ADC")(type "KiCad")(uri "${KIPRJMOD}/Parts/ADC")(options "")(descr ""))
+  (lib (name "D25")(type "KiCad")(uri "${KIPRJMOD}/Parts/Connectors/CONN_D25P_AMP")(options "")(descr ""))
+  (lib (name "HT7333")(type "KiCad")(uri "${KIPRJMOD}/Parts/VoltageRegulator")(options "")(descr ""))
 )

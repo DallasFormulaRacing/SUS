@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.0
+          "min_clearance": 0.3
         }
       },
       "diff_pair_dimensions": [
@@ -63,71 +63,7 @@
           "width": 0.3
         }
       ],
-      "drc_exclusions": [
-        "clearance|69460000|55245000|d624e1c4-76c8-4d78-a725-c485b8baf1f5|15cc4259-741a-4961-828f-6d5b34d90882",
-        "clearance|69660000|61225000|a1f565bc-694c-48b9-ad2b-a248e7d70ce8|0385b0fe-1ab8-4e17-a61b-78eb4f6c39ad",
-        "clearance|70095000|61325000|dde61b74-b213-4af5-9973-4fe520560452|a1f565bc-694c-48b9-ad2b-a248e7d70ce8",
-        "clearance|70450000|58335000|9dcece3f-3f8f-4dee-bc0d-e09611018067|648290b7-1fe7-41f5-8567-1d9ba3dca3d0",
-        "clearance|70575000|62205000|7c45098d-41b7-4932-93f2-ce374f83c725|a50f4db4-93dd-4b2f-9775-0128dbb3420a",
-        "clearance|70650000|56255000|52045d5c-eab2-410e-b927-49cd3455f7d1|90bc8bf0-65c3-44bc-a8ff-0c618a3e4dc2",
-        "clearance|70675000|62255000|89e9c043-994f-43db-99f3-be5ba16f0f90|a50f4db4-93dd-4b2f-9775-0128dbb3420a",
-        "clearance|71210000|55245000|b1f04b84-17a5-4dfd-9a09-32f50aae1ef0|ac394bc2-29c4-47c1-b1d6-ee34d865a1b4",
-        "clearance|71360000|61225000|8bcfc0ea-a609-4f68-b635-661d744898c7|3deded5d-7f11-4f7f-a188-02c13ed544b9",
-        "clearance|71590000|59445000|dd5d3488-7aad-49f4-8dba-0ea74044f8d8|3820eefd-8ac6-4820-be22-75c3a10ad131",
-        "clearance|71795000|61325000|6053c974-46d8-4d5a-84f3-2b0cbbc14547|8bcfc0ea-a609-4f68-b635-661d744898c7",
-        "clearance|72200000|58335000|08b967ed-77d0-464a-8486-e59a45f250bd|ec81a631-0d12-424c-ac73-4c8b76d5048c",
-        "clearance|72400000|56255000|982f36c9-2dd1-4ccd-a541-8d15cf8fa2dc|b10236d5-66e8-40ad-9276-4b0345ebaa83",
-        "clearance|72425000|62255000|6701b0ab-a1be-4a6f-a0c1-68dd48a74c29|fb65d036-fd33-426f-91ad-685200fc9301",
-        "clearance|72980000|55245000|6db829c8-5271-431e-b3cb-47d291fb7b37|a2f556a7-8f76-4f21-b8f7-bc1345a7c8fb",
-        "clearance|73010000|61165000|e129642b-f900-4680-8472-3e3d29a43202|990af46b-cd57-493b-a607-ee92e00d9285",
-        "clearance|73340000|59445000|59756290-e0dd-4d68-817e-5c10c182e00d|b66acb53-9694-4d99-95eb-71ae64b89617",
-        "clearance|73950000|58335000|56ba4005-12c5-4c75-9c2f-06b9b6c01e0d|1e97ab9b-5bab-4010-8656-63a704f4a84c",
-        "clearance|74150000|56255000|02300238-600b-4455-8653-57e0f915a0a6|747c08e9-66c7-4098-8d30-09f1ea11253b",
-        "clearance|74150000|62275000|269df07b-df2f-44f4-8703-b868f8e741f7|2ece1c6b-45c0-4724-bd68-1efdbe3dd985",
-        "clearance|74710000|55245000|8687c4c4-3f87-441d-873c-8ce030314d00|eb81ce8e-6444-4c4a-b1ab-90dff1736680",
-        "clearance|74715000|61165000|f38f40cf-0294-40e2-9ad1-7a5999c9a35f|11a797a1-3a88-4726-9c49-82f50659623d",
-        "clearance|75140000|59445000|1bffc697-146b-42d2-9b42-62c875861802|4583dd8f-898d-4627-a994-84b54ce0c0d6",
-        "clearance|75745000|58355000|5302f69a-7986-4ab2-a43f-880b5e912c50|41b9f4cc-4ebe-4af8-8b33-0901c3b7f41f",
-        "clearance|75900000|56255000|72aecbea-db7a-4d9b-9e04-1d241b5ca18e|fc834888-569b-4d4c-ae20-a8d5e587be22",
-        "clearance|75900000|62275000|830f01dd-159c-4cb7-aac8-fc56e6d6183a|3a21b076-7236-4686-acb9-6ff442e55d7e",
-        "clearance|76460000|55245000|2dac7f1d-4627-49f5-b096-9c23986da152|10803d85-d203-49b8-b8db-445157e28c5e",
-        "clearance|76515000|61165000|b51964d9-f635-4861-88fc-dc4e35747247|b5de6366-7964-4b63-bf3f-f37f98eff809",
-        "clearance|76835000|59465000|87de90a0-bc31-42b4-a53e-a36eb71b6fc3|041f01e4-d3d7-4ef9-81cf-4878f40a0ad0",
-        "clearance|77495000|58365000|57dca420-5d56-46c9-9e2c-36d847cee50c|5048ca16-0710-4484-91b1-02d2528ab8f1",
-        "clearance|77650000|56255000|78bfd1b2-b714-4463-8672-a281130e8fa6|33443d1b-eb53-4e49-8f31-dc6833350f44",
-        "clearance|77650000|62275000|75f106db-1245-428d-ae39-c3ea3bd8fa87|c743509d-45be-4751-b937-e84638f20fa8",
-        "clearance|78260000|55265000|c28a69c6-5e61-4465-921b-7dd21dc893e2|99e085e2-0093-4a9b-a75e-3e58cead9de1",
-        "clearance|78290000|61165000|64841484-eaef-4547-9d1f-1757cf2a597a|6e7b5d19-23bd-4c86-ade1-8ffeb79cd81f",
-        "clearance|78635000|59465000|368aa220-85c7-4d82-8764-7b122053ad93|cf4e3503-3289-4f14-bd20-d92fe55986ae",
-        "clearance|79245000|58365000|72a2c27c-47e5-4f6f-a894-5df7a462600f|47f8b61c-a6d2-4ed7-a008-24bc282f22ca",
-        "clearance|79400000|62285000|1d80b7df-cd6b-446c-93db-74d5f67d2a2a|2a64f921-3a17-434c-a835-8e6bd8feb539",
-        "clearance|79450000|56275000|e9fec1b3-a1c3-4484-821f-e7e0a9e9bc2e|c0dd97c8-386b-4f48-9ae5-4863fec9cd6f",
-        "clearance|80060000|55265000|ebe1ae37-939d-469b-ba37-a9462c4f7fe9|574931e1-295a-44b3-9034-33c133276571",
-        "clearance|80060000|61165000|963be5c8-f319-420d-9697-9901bc3bb0dd|2f6a918e-cf0c-4b15-a114-e6d1dee8ded5",
-        "clearance|80385000|59465000|019a8032-2739-4f81-b6f0-23cc863ea16f|a1b4f487-235e-430c-9361-71c8f4264660",
-        "clearance|81150000|62285000|2cbd5c3b-76a8-4b1c-9148-23e1237e1487|55ba5f21-3802-4c43-8f74-0d931828c79c",
-        "clearance|81200000|56275000|734cd9c6-b6f1-4809-b79f-4075fa7d1397|43b22a45-0f2f-416f-ad4e-687e2c932b47",
-        "clearance|95542500|59292500|d05cb9c8-1e8e-408e-8211-f13b63093434|6ea3b78f-73d0-456e-a128-7a3b1ea64fa9",
-        "clearance|95542500|59337500|d05cb9c8-1e8e-408e-8211-f13b63093434|57e5c7d4-a31e-484d-bada-c1ebc0ac8bd0",
-        "clearance|95542500|59837500|57e5c7d4-a31e-484d-bada-c1ebc0ac8bd0|b1d32767-34bc-4741-9e4a-51a80e4e66e5",
-        "clearance|95542500|60337500|b1d32767-34bc-4741-9e4a-51a80e4e66e5|63479646-9136-47cb-8031-4251b8c45f68",
-        "clearance|95542500|60837500|63479646-9136-47cb-8031-4251b8c45f68|c5888f0e-546d-42a7-962b-6e10a3930365",
-        "clearance|96087500|61122500|c5888f0e-546d-42a7-962b-6e10a3930365|d51ecdd7-fd40-4a18-a2bc-8747f9596a4e",
-        "clearance|96412500|59292500|a7dbfd1d-85e7-4b8c-9da1-1a400ea703a9|6ea3b78f-73d0-456e-a128-7a3b1ea64fa9",
-        "clearance|96912500|59292500|87219b7c-aa20-4207-8f0f-739db08a214c|a7dbfd1d-85e7-4b8c-9da1-1a400ea703a9",
-        "clearance|97087500|60837500|77595384-2aaf-4a6a-9995-935c7235afe5|c62aa477-06cd-4460-a29e-003555cdefd0",
-        "clearance|97457500|59162500|96db7cea-15ec-489e-b57b-950aeb124339|87219b7c-aa20-4207-8f0f-739db08a214c",
-        "clearance|97872500|59662500|37b6fcb5-403a-49ab-bc81-75e1c7b000cb|96db7cea-15ec-489e-b57b-950aeb124339",
-        "clearance|97872500|60162500|fad00f6a-6c12-489c-aa23-d091cb830054|37b6fcb5-403a-49ab-bc81-75e1c7b000cb",
-        "clearance|97872500|60662500|c62aa477-06cd-4460-a29e-003555cdefd0|fad00f6a-6c12-489c-aa23-d091cb830054",
-        "courtyards_overlap|46830001|51830001|8345b3a0-cdff-4d48-8f1e-f8e3567cdb54|fb2d3dfc-c26a-47e1-a52f-c9f58e94de96",
-        "courtyards_overlap|47324999|65175001|82714576-294f-40cc-9643-2a234cec9426|8345b3a0-cdff-4d48-8f1e-f8e3567cdb54",
-        "malformed_courtyard|86199997|60499999|7cd3f247-7d6a-4d10-af78-fcd481f70650|00000000-0000-0000-0000-000000000000",
-        "malformed_courtyard|86699999|59999997|7cd3f247-7d6a-4d10-af78-fcd481f70650|00000000-0000-0000-0000-000000000000",
-        "via_dangling|60900000|56200000|052d2613-4265-4912-9c39-ebffd8b14aa7|00000000-0000-0000-0000-000000000000",
-        "via_dangling|62600000|56000000|0d606cab-9bb0-4526-87f0-b256f526fcfa|00000000-0000-0000-0000-000000000000",
-        "via_dangling|68000000|56000000|0739632f-06f7-49dc-8781-7321cfd23740|00000000-0000-0000-0000-000000000000"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -188,7 +124,7 @@
         "min_clearance": 0.1,
         "min_connection": 0.0,
         "min_copper_edge_clearance": 0.5,
-        "min_hole_clearance": 0.2,
+        "min_hole_clearance": 0.25,
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.2,
         "min_microvia_drill": 0.1,
@@ -197,7 +133,7 @@
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
-        "min_track_width": 0.1,
+        "min_track_width": 0.16,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
         "solder_mask_to_copper_clearance": 0.005,
@@ -528,7 +464,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.15,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -556,8 +492,8 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "gerbers/",
-      "pos_files": "BOM/",
+      "plot": "",
+      "pos_files": "",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
@@ -567,7 +503,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "BOM\\SUS-all-pos.csv",
+    "bom_export_filename": "",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -598,7 +534,7 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -728,6 +664,18 @@
         },
         {
           "group_by": false,
+          "label": "Sim.Device",
+          "name": "Sim.Device",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
+        },
+        {
+          "group_by": false,
           "label": "SnapEDA_Link",
           "name": "SnapEDA_Link",
           "show": false
@@ -737,25 +685,13 @@
           "label": "Description",
           "name": "Description",
           "show": false
-        },
-        {
-          "group_by": true,
-          "label": "LCSC PN",
-          "name": "LCSC PN",
-          "show": true
-        },
-        {
-          "group_by": true,
-          "label": "LCSC PN ",
-          "name": "LCSC PN ",
-          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "name": "",
-      "sort_asc": false,
-      "sort_field": "LCSC PN "
+      "sort_asc": true,
+      "sort_field": "Reference"
     },
     "connection_grid_size": 50.0,
     "drawing": {
@@ -794,7 +730,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "../Images/",
+    "plot_directory": "",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,
