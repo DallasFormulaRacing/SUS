@@ -220,8 +220,8 @@
 	(net 68 "unconnected-(J2-Pin_4-Pad4)")
 	(net 69 "unconnected-(J3-Pad25)")
 	(net 70 "unconnected-(U2-AIN1-Pad5)")
-	(net 71 "unconnected-(U5-NC-Pad5)")
-	(net 72 "unconnected-(U5-NC-Pad8)")
+	(net 71 "unconnected-(U4-NC-Pad5)")
+	(net 72 "unconnected-(U4-NC-Pad8)")
 	(net 73 "unconnected-(J1-Pin_7-Pad7)")
 	(net 74 "unconnected-(J1-Pin_6-Pad6)")
 	(net 75 "unconnected-(J1-Pin_5-Pad5)")
@@ -7447,7 +7447,7 @@
 			(remove_unused_layers no)
 			(net 66 "unconnected-(J3-Pad21)")
 			(pinfunction "21")
-			(pintype "unspecified")
+			(pintype "unspecified+no_connect")
 			(uuid "856910c9-aa2a-40da-b211-24f539ef1a13")
 		)
 		(pad "22" thru_hole circle
@@ -7480,7 +7480,7 @@
 			(remove_unused_layers no)
 			(net 67 "unconnected-(J3-Pad24)")
 			(pinfunction "24")
-			(pintype "unspecified")
+			(pintype "unspecified+no_connect")
 			(uuid "f0b1d2b1-e256-4814-af28-971e7c2a526d")
 		)
 		(pad "25" thru_hole circle
@@ -7491,7 +7491,7 @@
 			(remove_unused_layers no)
 			(net 69 "unconnected-(J3-Pad25)")
 			(pinfunction "25")
-			(pintype "unspecified")
+			(pintype "unspecified+no_connect")
 			(uuid "d9e80607-8ef8-478a-bc79-c8a45bd300ef")
 		)
 	)
@@ -7731,7 +7731,7 @@
 				)
 			)
 		)
-		(property "Value" "HT7333"
+		(property "Value" "HT7350-A"
 			(at 3.19 4.435 90)
 			(layer "F.Fab")
 			(uuid "d194c4f6-e271-4554-ab6a-238178788a25")
@@ -10563,7 +10563,7 @@
 		(at 96.78 54.02 90)
 		(descr "SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOIC SO")
-		(property "Reference" "U5"
+		(property "Reference" "U4"
 			(at 0.02 4.02 180)
 			(layer "F.SilkS")
 			(uuid "042f0798-6210-4eef-96b8-867b9fc02985")
@@ -10824,7 +10824,7 @@
 			(size 1.95 0.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 71 "unconnected-(U5-NC-Pad5)")
+			(net 71 "unconnected-(U4-NC-Pad5)")
 			(pinfunction "NC")
 			(pintype "no_connect")
 			(uuid "575815d9-3495-4893-b96f-71d91c0a1b8b")
@@ -10854,7 +10854,7 @@
 			(size 1.95 0.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 72 "unconnected-(U5-NC-Pad8)")
+			(net 72 "unconnected-(U4-NC-Pad8)")
 			(pinfunction "NC")
 			(pintype "no_connect")
 			(uuid "a3ca6325-cc16-4ccc-afd3-5f9c1b8818a9")
@@ -12221,7 +12221,7 @@
 			(remove_unused_layers no)
 			(net 76 "unconnected-(J1-Pin_4-Pad4)")
 			(pinfunction "Pin_4")
-			(pintype "passive")
+			(pintype "passive+no_connect")
 			(uuid "866dd326-1df7-4974-a33b-e5b8e1f83446")
 		)
 		(pad "5" thru_hole oval
@@ -12232,7 +12232,7 @@
 			(remove_unused_layers no)
 			(net 75 "unconnected-(J1-Pin_5-Pad5)")
 			(pinfunction "Pin_5")
-			(pintype "passive")
+			(pintype "passive+no_connect")
 			(uuid "26dde959-b92d-4b9e-b552-bdd47d2378eb")
 		)
 		(pad "6" thru_hole oval
@@ -12276,7 +12276,7 @@
 			(remove_unused_layers no)
 			(net 8 "unconnected-(J1-Pin_9-Pad9)")
 			(pinfunction "Pin_9")
-			(pintype "passive")
+			(pintype "passive+no_connect")
 			(uuid "fca0b209-8d37-40cb-8311-db398299ffb9")
 		)
 		(pad "10" thru_hole oval
@@ -12287,7 +12287,7 @@
 			(remove_unused_layers no)
 			(net 23 "unconnected-(J1-Pin_10-Pad10)")
 			(pinfunction "Pin_10")
-			(pintype "passive")
+			(pintype "passive+no_connect")
 			(uuid "cfad1e20-277e-4873-b28b-f3c972e7f4cb")
 		)
 		(pad "11" thru_hole oval

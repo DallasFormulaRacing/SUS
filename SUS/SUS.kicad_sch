@@ -11161,7 +11161,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "29320e59-b06a-40cc-b81e-4a50c04912a0")
-		(property "Reference" "U5"
+		(property "Reference" "U4"
 			(at 60.6141 25.4 0)
 			(effects
 				(font
@@ -11233,7 +11233,7 @@
 		(instances
 			(project ""
 				(path "/4bc4e24b-850f-49e9-945b-9f19aae95ccf"
-					(reference "U5")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -14351,7 +14351,7 @@
 				)
 			)
 		)
-		(property "Value" "HT7333"
+		(property "Value" "HT7350-A"
 			(at 52.07 123.19 0)
 			(effects
 				(font
