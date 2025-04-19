@@ -42042,6 +42042,72 @@
 	(dimension
 		(type aligned)
 		(layer "User.1")
+		(uuid "4189db29-769b-4325-8722-c038500cb9df")
+		(pts
+			(xy 132 98) (xy 132 34)
+		)
+		(height 21)
+		(gr_text "64.0000 mm"
+			(at 151.85 66 90)
+			(layer "User.1")
+			(uuid "4189db29-769b-4325-8722-c038500cb9df")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type aligned)
+		(layer "User.1")
+		(uuid "49bfb48a-3477-4000-8e04-19c7538c3b49")
+		(pts
+			(xy 107 55) (xy 107 34)
+		)
+		(height 37)
+		(gr_text "21.0000 mm"
+			(at 142.85 44.5 90)
+			(layer "User.1")
+			(uuid "49bfb48a-3477-4000-8e04-19c7538c3b49")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type aligned)
+		(layer "User.1")
 		(uuid "60a134d2-1bd7-4a01-8ea4-00dc71a25781")
 		(pts
 			(xy 132 94) (xy 82 94)
@@ -42051,6 +42117,39 @@
 			(at 107 99.85 0)
 			(layer "User.1")
 			(uuid "60a134d2-1bd7-4a01-8ea4-00dc71a25781")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type aligned)
+		(layer "User.1")
+		(uuid "6b5dbb54-9768-4626-a37c-1f925e64b72f")
+		(pts
+			(xy 132 94) (xy 132 98)
+		)
+		(height 7)
+		(gr_text "4.0000 mm"
+			(at 123.85 96 90)
+			(layer "User.1")
+			(uuid "6b5dbb54-9768-4626-a37c-1f925e64b72f")
 			(effects
 				(font
 					(size 1 1)
